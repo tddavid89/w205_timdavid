@@ -1,0 +1,9 @@
+3. How long did it take you to run the process for each of these?
+	out: 3minutes 36.37seconds
+	emr-out: 12minutes 14.784seconds
+
+4. How many address tags are there in the input?
+	There are 2042 address tags
+
+5. Does the local version and the EMR version give the same answer?
+	Yes, the answers are the same (but split up into 3 files - part-00000, part-00001, part-00002)
